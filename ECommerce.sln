@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Services.Catalog.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Services.Catalog.Infrastructure", "src\Services\Catalog\ECommerce.Services.Catalog.Infrastructure\ECommerce.Services.Catalog.Infrastructure.csproj", "{B9EFF7A0-066C-4A90-9760-4E1983411647}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Services.Catalog.API", "src\Services\Catalog\ECommerce.Services.Catalog.API\ECommerce.Services.Catalog.API.csproj", "{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,18 @@ Global
 		{B9EFF7A0-066C-4A90-9760-4E1983411647}.Release|x64.Build.0 = Release|Any CPU
 		{B9EFF7A0-066C-4A90-9760-4E1983411647}.Release|x86.ActiveCfg = Release|Any CPU
 		{B9EFF7A0-066C-4A90-9760-4E1983411647}.Release|x86.Build.0 = Release|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Debug|x64.Build.0 = Debug|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Debug|x86.Build.0 = Debug|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Release|x64.ActiveCfg = Release|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Release|x64.Build.0 = Release|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,5 +105,6 @@ Global
 		{38839FFA-0218-4CF4-9BDF-1A53A31D6D70} = {C91C1CF1-1625-0789-F869-53D87D6277BA}
 		{F6741FEF-4FA0-42A4-80FD-33FB1A873BA0} = {C91C1CF1-1625-0789-F869-53D87D6277BA}
 		{B9EFF7A0-066C-4A90-9760-4E1983411647} = {C91C1CF1-1625-0789-F869-53D87D6277BA}
+		{D2A6881A-71B1-4555-8C93-1F98F8D7DD03} = {C91C1CF1-1625-0789-F869-53D87D6277BA}
 	EndGlobalSection
 EndGlobal
