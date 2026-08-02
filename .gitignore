@@ -427,3 +427,26 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Local environment
+.env.local
+.env.development.local
+
+# Test Results
+TestResults/
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+temp/

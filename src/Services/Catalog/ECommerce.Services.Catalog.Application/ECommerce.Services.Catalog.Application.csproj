@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ECommerce.Services.Catalog.Domain\ECommerce.Services.Catalog.Domain.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\ECommerce.BuildingBlocks\ECommerce.BuildingBlocks.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
